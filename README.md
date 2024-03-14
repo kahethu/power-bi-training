@@ -23,3 +23,5 @@ It’s a full course that covers the basic tools and skills you need to organize
 
 📌 Do subscribe to @HisDataProject channel & get regular updates on videos: [HisDataProject](https://bit.ly/4cfEVuG)
 
+👉 [Download course excercise files here](https://github.com/kahethu/power-bi-training/blob/main/Excercise-Files.zip)
+
