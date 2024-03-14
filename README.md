@@ -1,5 +1,5 @@
 # power-bi-training
-Hands-On Power Bi Full Course Tutorial. ⚡Beginner To Pro In Under 5 Hours [2024 Edition]
+Hands-On Power Bi Full Course Tutorial. ⚡Beginner To Pro In Under 5 Hours [2024 Edition](https://youtu.be/ZKDvlAAjbNk)
 
 Welcome to this Hands-on power bi full course tutorial! This course is designed for beginners as a simple, practical Power BI training, more like doing a Power BI project. It’s designed to stick with you for a long time.
 
