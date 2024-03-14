@@ -1,5 +1,5 @@
 # power-bi-training
-Watch this training on Youtube at (https://youtu.be/ZKDvlAAjbNk)
+Watch this training on Youtube at https://youtu.be/ZKDvlAAjbNk
 
 Hands-On Power Bi Full Course Tutorial. ⚡Beginner To Pro In Under 5 Hours [2024 Edition](https://youtu.be/ZKDvlAAjbNk)
 
